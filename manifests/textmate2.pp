@@ -1,0 +1,2 @@
+class textmate::textmate2 {
+}
