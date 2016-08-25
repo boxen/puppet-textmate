@@ -1,21 +1,7 @@
 # TextMate Puppet Module for Boxen
 
-## Usage
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-TextMate 1.5:
-
-```puppet
-include textmate
-```
-
-TextMate 2:
-
-```puppet
-include textmate::textmate2::release  # normal release
-include textmate::textmate2::beta     # beta releases
-include textmate::textmate2::nightly  # nightly releases
-```
-
-## Required Puppet Modules
-
-* boxen
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
